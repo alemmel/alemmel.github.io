@@ -1,0 +1,16 @@
+body{
+    background:lightgray;
+}
+
+.assignment{
+    display:flex;
+    padding: 20px;
+    margin:10px;
+    background:beige;
+}
+
+.assignment img{
+    width:200px;
+}
+
+
